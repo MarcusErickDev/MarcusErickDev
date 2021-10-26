@@ -5,7 +5,7 @@ I'm Marcus Erick. A <strong>FrontEnd Developer </strong>
 </p>
 
 <br/>
- 🔧 Technologies & Tools
+ 🔧  &nbsp Stack
 <hr/>
 
 ![](https://img.shields.io/badge/JavaScript-ES6+-blue?style=plastic&logo=javascript&logoColor=white&color=235D6F)

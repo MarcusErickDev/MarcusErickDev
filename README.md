@@ -12,6 +12,7 @@ I'm Marcus Erick. A <strong>FrontEnd Developer </strong>
 ![](https://img.shields.io/badge/Sass-SCSS-blue?style=plastic&logo=sass&logoColor=white&color=235D6F)
 ![](https://img.shields.io/badge/React-JS-blue?style=plastic&logo=react&logoColor=white&color=235D6F)
 ![](https://img.shields.io/badge/Angular-JS-blue?style=plastic&logo=angular&logoColor=white&color=235D6F)
+![](https://img.shields.io/badge/TypeScript-JS-blue?style=plastic&logo=typescript&logoColor=white&color=235D6F)
 ![](https://img.shields.io/badge/JQuery-JS-blue?style=plastic&logo=jquery&logoColor=white&color=235D6F)
 ![](https://img.shields.io/badge/Node-JS-blue?style=plastic&logo=node.js&logoColor=white&color=235D6F)
 ![](https://img.shields.io/badge/Mongo-DB-blue?style=plastic&logo=mongodb&logoColor=white&color=235D6F)
